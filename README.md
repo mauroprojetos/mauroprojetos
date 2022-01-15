@@ -34,9 +34,7 @@
 
 ---
 
-<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=canove&show_icons=true&hide_border=true" />
+<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mauroprojetos&show_icons=true&hide_border=true" />
 
-[facebook]: https://www.facebook.com/ca9kings
-[instagram]: https://www.instagram.com/canove9/
-[linkedin]: https://www.linkedin.com/in/cassio-santos-08076b180/
+[linkedin]: https://www.linkedin.com/in/mauro-monteiro-a27a4b48/
 
